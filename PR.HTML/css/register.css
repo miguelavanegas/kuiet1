@@ -1,0 +1,12 @@
+.gradient-custom body {
+background-color: rgb(0, 0, 0);
+}
+
+section{
+    background-color: rgb(0, 0, 0);
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
